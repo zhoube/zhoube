@@ -10,6 +10,8 @@
 
 ### In my univeristy, I am the Vice President (Internal) of the Intellectual Games Club. My main sport that I play is International Chess, and I regular live stream our Inter Varsity tournament with other tertiary institutions.
 
+### Languages that I am familair with: Java, Python, JavaScript, TypeScript, R, Angular, React, MySQL, MariaDB.
+
 <!--
 **zhoube/zhoube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
