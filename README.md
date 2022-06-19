@@ -2,7 +2,7 @@
 
 ### My name is [Zhou Yi Kelvin](https://www.linkedin.com/in/zhou-yi-kelvin/), a Penultimate Computer Science and Business Administration Student in National University of Singapore.
 
-### Currently, I am a Software Engineering Intern at [Ninja Van](https://www.ninjavan.co/en-sg) in Singapore. My main task for this internship is to migrate a page developed in Angular to a React environment, that will be hoisted by an i-Frame.
+### Currently, I am a Software Engineering Intern at [Ninja Van](https://www.ninjavan.co/en-sg) in Singapore. My main task for this internship is to migrate a page developed in Angular to a React repository, that will be hoisted by an i-Frame as a Micro FrontEnd.
 
 ### In my previous Software Engineering Internships, I developed a Hotel Kiosk and Lock Access Control using B4J, and co-developed a Website using Angular.
 
