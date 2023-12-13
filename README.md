@@ -1,10 +1,10 @@
 ## Greetings, welcome to my Github Profile!
 
-### My name is [Zhou Yi Kelvin](https://www.linkedin.com/in/zhou-yi-kelvin/), a Penultimate Computer Science and Business Administration Student in National University of Singapore.
+### My name is [Zhou Yi Kelvin](https://www.linkedin.com/in/zhou-yi-kelvin/), a Fresh Graduate Computer Science and Business Administration Student in National University of Singapore.
 
-### Currently, I am doing a Machine Learning Engineer Internship at [Grab](https://www.grab.com/sg/) in Singapore.
+### Currently, I am about to complete a Full Stack Engineer Engineer Internship at [Grab](https://www.grab.com/sg/) in Singapore. During this internship, I led and contributed to various projects that enhanced the user experience, data quality, and scalability of the company's products and services. For example, I reduced user steps by 30% by developing User Presets in the MarketWatch Dashboard, improved the logic for route generation for competitor transport scraping, and created the data pipeline to pipe the scraped data from AWS S3 to Hive Table.
 
-### Previously, I am a Software Engineer Intern at [Ninja Van](https://www.ninjavan.co/en-sg) in Singapore. My main task for this internship is to migrate a page developed in Angular to a React repository, that will be hoisted by an i-Frame as a Micro FrontEnd. I have also contributed by fixing bugs, addding features and improving engineering practices for both the Backend and Frontend codebase.
+### Previously, I was a Software Engineer Intern at [Ninja Van](https://www.ninjavan.co/en-sg) in Singapore. My main task for this internship is to migrate a page developed in Angular to a React repository, that will be hoisted by an i-Frame as a Micro FrontEnd. I have also contributed by fixing bugs, addding features and improving engineering practices for both the Backend and Frontend codebase.
 
 ### In my other prior Software Engineering Internships, I developed a Hotel Kiosk and Lock Access Control using B4J, and co-developed a Website using Angular.
 
@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/47862816/227981610-ccb9badf-e47b-405d-bac8-374aa76c63a9.png)
 
-### Languages that I am familair with: Java, Python, JavaScript, TypeScript, R, Angular, React, MySQL, MariaDB.
+### Languages and Technologies that I am familiar with: Java, Python, JavaScript, TypeScript, R, Angular, React and MySQL.
 
 <!--
 **zhoube/zhoube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
