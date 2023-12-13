@@ -1,6 +1,6 @@
 ## Greetings, welcome to my Github Profile!
 
-### My name is [Zhou Yi Kelvin](https://www.linkedin.com/in/zhou-yi-kelvin/), a Fresh Graduate Computer Science and Business Administration Student in National University of Singapore.
+### My name is [Zhou Yi Kelvin](https://www.linkedin.com/in/zhou-yi-kelvin/), a Fresh Graduate Computer Science and Business Administration (Double Degree) Student in National University of Singapore.
 
 ### Currently, I am about to complete a Full Stack Engineer Engineer Internship at [Grab](https://www.grab.com/sg/) in Singapore. During this internship, I led and contributed to various projects that enhanced the user experience, data quality, and scalability of the company's products and services. For example, I reduced user steps by 30% by developing User Presets in the MarketWatch Dashboard, improved the logic for route generation for competitor transport scraping, and created the data pipeline to pipe the scraped data from AWS S3 to Hive Table.
 
