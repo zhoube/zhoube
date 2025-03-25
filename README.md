@@ -2,9 +2,13 @@
 
 ### My name is [Zhou Yi Kelvin](https://www.linkedin.com/in/zhou-yi-kelvin/), a Fresh Graduate Computer Science and Business Administration (Double Degree) Student in National University of Singapore.
 
-### Currently, I am about to complete a Full Stack Engineer Engineer Internship at [Grab](https://www.grab.com/sg/) in Singapore. During this internship, I led and contributed to various projects that enhanced the user experience, data quality, and scalability of the company's products and services. For example, I reduced user steps by 30% by developing User Presets in the MarketWatch Dashboard, improved the logic for route generation for competitor transport scraping, and created the data pipeline to pipe the scraped data from AWS S3 to Hive Table.
+### Currently, I am working as a Software Engineer at RiDiK in Singapore.
 
-### Previously, I was a Software Engineer Intern at [Ninja Van](https://www.ninjavan.co/en-sg) in Singapore. My main task for this internship is to migrate a page developed in Angular to a React repository, that will be hoisted by an i-Frame as a Micro FrontEnd. I have also contributed by fixing bugs, addding features and improving engineering practices for both the Backend and Frontend codebase.
+### Previously, I worked as a Software Engineer in Credit Agricole CIB, where I worked on a Full Stack Application using Spring Boot Java Backend and Aurelia JS Frontend.
+
+### For my internships, I completed a Full Stack Engineer Engineer Internship at [Grab](https://www.grab.com/sg/) in Singapore. During this internship, I led and contributed to various projects that enhanced the user experience, data quality, and scalability of the company's products and services. For example, I reduced user steps by 30% by developing User Presets in the MarketWatch Dashboard, improved the logic for route generation for competitor transport scraping, and created the data pipeline to pipe the scraped data from AWS S3 to Hive Table.
+
+### Before that, I was a Software Engineer Intern at [Ninja Van](https://www.ninjavan.co/en-sg) in Singapore. My main task for this internship is to migrate a page developed in Angular to a React repository, that will be hoisted by an i-Frame as a Micro FrontEnd. I have also contributed by fixing bugs, addding features and improving engineering practices for both the Backend and Frontend codebase.
 
 ### In my other prior Software Engineering Internships, I developed a Hotel Kiosk and Lock Access Control using B4J, and co-developed a Website using Angular.
 
